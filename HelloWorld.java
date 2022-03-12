@@ -23,7 +23,7 @@ public class HelloWorld {
  
      String registrationToken = "fwas-2J6PEJShv9NXNNyIS:APA91bGeb5E0ym2S9qkxwYf2PJoW1WQckJR8i48j0ZhFXvAdctQ5WtbRlFOYNmaqSw2BUAFWOs5AIIF9hM2e_4z_MU5g7xDEcMjiHBRfYrhdxHhgLPtlpiIwGlxbL4dTwQkA9d9HqqLv";
     
-
+    // Message structure changed by Joshy
     Message message = Message.builder()
         .setNotification(Notification.builder()
             .setTitle("Hello")
